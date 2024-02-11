@@ -1,0 +1,80 @@
+.sell2,
+.stock-listing {
+  position: absolute;
+  line-height: 140%;
+  font-weight: 500;
+}
+.sell2 {
+  top: 152px;
+  left: 820px;
+  font-size: var(--font-size-17xl);
+}
+.stock-listing {
+  top: 258px;
+  left: 1020px;
+}
+.account-total2,
+.ksh-58400 {
+  position: relative;
+  line-height: 140%;
+}
+.account-total2 {
+  font-weight: 500;
+}
+.ksh-58400 {
+  font-size: var(--heading-6-size);
+}
+.account-total-container,
+.frame-parent2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.account-total-container {
+  width: 420px;
+  flex-direction: row;
+  gap: var(--gap-121xl);
+}
+.frame-parent2 {
+  flex-direction: column;
+  gap: var(--gap-xl);
+}
+.submit2 {
+  position: absolute;
+  top: 21px;
+  left: 172px;
+  line-height: 140%;
+  font-weight: 800;
+}
+.submit-frame {
+  width: 420px;
+  position: relative;
+  border-radius: var(--br-4xs);
+  background-color: var(--primary-600);
+  height: 70px;
+  overflow: hidden;
+  flex-shrink: 0;
+  cursor: pointer;
+  color: var(--gray-0);
+}
+.frame-parent1 {
+  position: absolute;
+  top: 330px;
+  left: 416px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.sell1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--gray-0);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--body-s);
+}

@@ -1,0 +1,34 @@
+.back {
+  position: relative;
+  line-height: 140%;
+}
+.text-tab-child {
+  width: 52px;
+  position: relative;
+  border-radius: var(--br-5xs) var(--br-5xs) 0 0;
+  background-color: var(--color-silver-100);
+  height: 6px;
+  display: none;
+}
+.text-tab {
+  border-radius: var(--br-5xl);
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-5xs) 0;
+  gap: var(--gap-3xs);
+}
+.property-1variant2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs);
+  gap: var(--gap-5xs);
+  text-align: left;
+  font-size: var(--body-text-2-reg-size);
+  color: var(--grey-600);
+  font-family: var(--body-text-2-reg);
+}

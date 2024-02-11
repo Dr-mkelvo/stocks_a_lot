@@ -1,0 +1,127 @@
+.tradex3 {
+  position: absolute;
+  top: 7px;
+  left: 57.1px;
+  line-height: 32px;
+}
+.logo-6-child4,
+.logo-67 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 43.1px;
+  height: 45px;
+}
+.logo-67 {
+  top: 40px;
+  left: 32px;
+  width: 108.1px;
+  font-size: var(--heading-6-size);
+  color: var(--primary-800);
+  font-family: var(--heading-6);
+}
+.essentional-icon3 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.discover3 {
+  position: relative;
+  line-height: 24px;
+}
+.essentional-parent1 {
+  position: absolute;
+  top: 229px;
+  left: 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.payment4 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+}
+.arrow-parent4,
+.message-parent1,
+.money-parent1 {
+  position: absolute;
+  left: 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.money-parent1 {
+  top: 357px;
+  cursor: pointer;
+  color: var(--primary-600);
+}
+.arrow-parent4,
+.message-parent1 {
+  top: 421px;
+}
+.message-parent1 {
+  top: 485px;
+}
+.setting-parent4 {
+  top: 549px;
+}
+.arrow-parent5,
+.setting-parent4,
+.user-parent1 {
+  position: absolute;
+  left: 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.arrow-parent5 {
+  top: 960px;
+  cursor: pointer;
+}
+.user-parent1 {
+  top: 896px;
+}
+.navbar-child {
+  position: absolute;
+  top: 348px;
+  left: 0;
+  border-radius: 0 var(--br-9xs) var(--br-9xs) 0;
+  background-color: var(--primary-600);
+  width: 6px;
+  height: 48px;
+}
+.school-parent1,
+.setting-parent5 {
+  position: absolute;
+  top: 165px;
+  left: 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.school-parent1 {
+  top: 293px;
+  cursor: pointer;
+}
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--gray-0);
+  width: 240px;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--body-m-size);
+  color: var(--gray-400);
+  font-family: var(--body-s);
+}

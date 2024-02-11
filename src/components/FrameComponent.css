@@ -1,0 +1,37 @@
+.welcome-back {
+  position: relative;
+  line-height: 32px;
+  font-weight: 500;
+}
+.harvey-specter {
+  position: relative;
+  line-height: 20px;
+}
+.frame-child {
+  width: 24px;
+  position: relative;
+  border-radius: var(--br-81xl);
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.harvey-specter-parent,
+.welcome-back-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.harvey-specter-parent {
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--body-text-2-reg-size);
+}
+.welcome-back-parent {
+  width: 1076px;
+  background-color: var(--gray-0);
+  justify-content: space-between;
+  text-align: left;
+  font-size: var(--subtitle-light-size);
+  color: var(--color-cornflowerblue-100);
+  font-family: var(--body-s);
+}

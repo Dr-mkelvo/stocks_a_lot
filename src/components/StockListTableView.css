@@ -1,0 +1,61 @@
+.selection-icon {
+  width: 6px;
+  position: relative;
+  height: 87px;
+  object-fit: contain;
+  display: none;
+}
+.back10,
+.back11 {
+  position: relative;
+  line-height: 140%;
+}
+.back11 {
+  font-size: var(--body-m-size);
+  font-weight: 600;
+}
+.company-name,
+.left {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.left {
+  flex-direction: row;
+  align-items: center;
+  padding: 0 0 0 var(--padding-5xl);
+  gap: var(--gap-base);
+}
+.navigational-arrows-icon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.right,
+.stock-list-table-view {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.right {
+  justify-content: flex-end;
+  gap: var(--gap-xs);
+}
+.stock-list-table-view {
+  width: 343px;
+  border-radius: var(--br-5xs);
+  background-color: var(--gray-0);
+  overflow: hidden;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xl) 0 0;
+  box-sizing: border-box;
+  gap: 77px;
+  text-align: left;
+  font-size: var(--body-text-2-reg-size);
+  color: var(--grey-900);
+  font-family: var(--body-s);
+}

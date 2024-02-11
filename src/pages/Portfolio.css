@@ -1,0 +1,47 @@
+.buy {
+  position: absolute;
+  top: 21px;
+  left: 112px;
+  line-height: 140%;
+  font-weight: 800;
+}
+.buy-wrapper {
+  position: absolute;
+  top: 881px;
+  left: 382px;
+  border-radius: var(--br-4xs);
+  background-color: var(--primary-600);
+  width: 266px;
+  height: 70px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.sell {
+  position: absolute;
+  top: 21px;
+  left: 114px;
+  line-height: 140%;
+  font-weight: 800;
+}
+.sell-wrapper {
+  position: absolute;
+  top: 881px;
+  left: 678px;
+  border-radius: var(--br-4xs);
+  background-color: var(--primary-600);
+  width: 266px;
+  height: 70px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.portfolio {
+  width: 100%;
+  position: relative;
+  background-color: var(--gray-0);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--gray-0);
+  font-family: var(--body-s);
+}

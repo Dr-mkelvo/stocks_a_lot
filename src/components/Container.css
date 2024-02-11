@@ -1,0 +1,74 @@
+.sal {
+  position: absolute;
+  top: 14px;
+  left: 114.1px;
+  line-height: 64px;
+}
+.group-icon,
+.logo-63 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 86.1px;
+  height: 90px;
+}
+.logo-63 {
+  top: 60px;
+  left: 203px;
+  width: 216.1px;
+  font-size: var(--font-size-29xl);
+  color: var(--primary-800);
+  font-family: var(--heading-6);
+}
+.log-in {
+  position: absolute;
+  top: 11px;
+  left: 103px;
+  line-height: 140%;
+  font-weight: 800;
+}
+.log-in-wrapper,
+.register-wrapper {
+  position: absolute;
+  top: 507px;
+  left: 75px;
+  border-radius: var(--br-4xs);
+  background-color: var(--primary-600);
+  width: 266px;
+  height: 42px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.register-wrapper {
+  left: 378px;
+}
+.sal1,
+.welcome-message {
+  position: absolute;
+  top: 301px;
+  left: 264px;
+  font-size: var(--font-size-xl);
+  line-height: 64px;
+  color: var(--color-black);
+}
+.sal1 {
+  top: 187px;
+  left: 322px;
+  font-size: var(--font-size-17xl);
+  font-weight: 800;
+}
+.logo-6-parent {
+  position: absolute;
+  top: 211px;
+  left: 360px;
+  border-radius: var(--br-xl);
+  background-color: var(--gray-0);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 719px;
+  height: 603px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--body-text-2-reg-size);
+  color: var(--gray-0);
+  font-family: var(--body-s);
+}

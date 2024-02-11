@@ -1,0 +1,45 @@
+.plus-icon6 {
+  width: 22.2px;
+  position: relative;
+  height: 22.2px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.label9 {
+  position: relative;
+  line-height: 140%;
+}
+.label8 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 5.55px;
+}
+.helper-text1 {
+  position: relative;
+  line-height: 140%;
+  font-weight: 900;
+}
+.left-helper-text2,
+.text-field {
+  justify-content: flex-start;
+  gap: 5.55px;
+}
+.left-helper-text2 {
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  color: var(--color-black);
+}
+.text-field {
+  width: 420px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  font-size: var(--font-size-base-6);
+  color: var(--grey-700);
+  font-family: var(--body-s);
+}

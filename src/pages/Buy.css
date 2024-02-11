@@ -1,0 +1,80 @@
+.buy3,
+.stock-listing1 {
+  position: absolute;
+  line-height: 140%;
+  font-weight: 500;
+}
+.buy3 {
+  top: 146px;
+  left: 848px;
+  font-size: var(--font-size-17xl);
+}
+.stock-listing1 {
+  top: 252px;
+  left: 1048px;
+}
+.account-total3,
+.ksh-384002 {
+  position: relative;
+  line-height: 140%;
+}
+.account-total3 {
+  font-weight: 500;
+}
+.ksh-384002 {
+  font-size: var(--heading-6-size);
+}
+.account-total-parent1,
+.frame-parent24 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.account-total-parent1 {
+  width: 420px;
+  flex-direction: row;
+  gap: var(--gap-121xl);
+}
+.frame-parent24 {
+  flex-direction: column;
+  gap: var(--gap-xl);
+}
+.submit3 {
+  position: absolute;
+  top: 21px;
+  left: 172px;
+  line-height: 140%;
+  font-weight: 800;
+}
+.submit-wrapper1 {
+  width: 420px;
+  position: relative;
+  border-radius: var(--br-4xs);
+  background-color: var(--primary-600);
+  height: 70px;
+  overflow: hidden;
+  flex-shrink: 0;
+  cursor: pointer;
+  color: var(--gray-0);
+}
+.frame-parent23 {
+  position: absolute;
+  top: 324px;
+  left: 444px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.buy2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--gray-0);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--body-s);
+}

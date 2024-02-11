@@ -1,0 +1,35 @@
+.stocks-worth1 {
+  top: 11.7px;
+  letter-spacing: 0.01em;
+}
+.as-of-01-december,
+.div37,
+.stocks-worth1 {
+  position: absolute;
+  left: 11.7px;
+}
+.as-of-01-december {
+  top: 53.9px;
+  font-size: var(--font-size-5xs-3);
+  letter-spacing: 0.01em;
+  color: var(--inactive-state-color);
+}
+.div37 {
+  top: 29.9px;
+  font-size: var(--body-m-size);
+  font-weight: 500;
+  color: var(--color-seagreen-100);
+}
+.property-1default1 {
+  width: 238.9px;
+  border-radius: 3.64px;
+  background-color: var(--color-honeydew);
+  border: 0.7px solid var(--secondary-background);
+  box-sizing: border-box;
+  height: 75px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs-7);
+  color: var(--text-color-80-opacity);
+  font-family: var(--font-outfit);
+}

@@ -1,0 +1,122 @@
+.tradex1 {
+  position: absolute;
+  top: 7px;
+  left: 57.1px;
+  line-height: 32px;
+}
+.logo-6-item,
+.logo-61 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 43.1px;
+  height: 45px;
+}
+.logo-61 {
+  top: 40px;
+  left: 32px;
+  width: 148.1px;
+  font-size: var(--heading-6-size);
+  color: var(--primary-800);
+  font-family: var(--heading-6);
+}
+.essentional-icon1 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.discover1 {
+  position: relative;
+  line-height: 24px;
+}
+.essentional-group {
+  position: absolute;
+  top: 229px;
+  left: 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.payment2 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+}
+.arrow-container,
+.arrow-parent1,
+.message-group,
+.money-group,
+.setting-container,
+.user-group {
+  position: absolute;
+  left: 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.money-group {
+  top: 357px;
+  color: var(--primary-600);
+}
+.arrow-container,
+.arrow-parent1,
+.message-group,
+.setting-container,
+.user-group {
+  top: 421px;
+}
+.arrow-parent1,
+.message-group,
+.setting-container,
+.user-group {
+  top: 485px;
+}
+.arrow-parent1,
+.setting-container,
+.user-group {
+  top: 549px;
+}
+.arrow-parent1,
+.user-group {
+  top: 960px;
+}
+.user-group {
+  top: 896px;
+}
+.typepayment-child {
+  position: absolute;
+  top: 348px;
+  left: 0;
+  border-radius: 0 var(--br-9xs) var(--br-9xs) 0;
+  background-color: var(--primary-600);
+  width: 6px;
+  height: 48px;
+}
+.school-group,
+.setting-parent1 {
+  position: absolute;
+  top: 165px;
+  left: 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.school-group {
+  top: 293px;
+}
+.typepayment {
+  width: 240px;
+  background-color: var(--gray-0);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--body-m-size);
+  color: var(--gray-400);
+  font-family: var(--body-s);
+}

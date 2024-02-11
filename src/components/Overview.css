@@ -1,0 +1,13 @@
+.stock-list-name-parent {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.overview {
+  width: 673px;
+  height: 416.1px;
+}

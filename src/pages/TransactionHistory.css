@@ -1,0 +1,48 @@
+.payment-items-parent {
+  position: absolute;
+  top: 128px;
+  left: 302px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.print-transaction-history {
+  position: absolute;
+  top: 11px;
+  left: 42px;
+  line-height: 140%;
+  font-weight: 800;
+}
+.print-transaction-history-wrapper {
+  position: absolute;
+  top: 856px;
+  left: 756px;
+  border-radius: var(--br-4xs);
+  background-color: var(--primary-600);
+  width: 266px;
+  height: 42px;
+  overflow: hidden;
+}
+.stock-ticker {
+  position: absolute;
+  top: 223px;
+  left: 310px;
+  line-height: 20px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 92px;
+  height: 17px;
+}
+.transaction-history {
+  width: 100%;
+  position: relative;
+  background-color: var(--gray-0);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--body-text-2-reg-size);
+  color: var(--gray-0);
+  font-family: var(--body-s);
+}

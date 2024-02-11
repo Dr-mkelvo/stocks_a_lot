@@ -1,0 +1,73 @@
+.deposit1 {
+  position: absolute;
+  top: 367px;
+  left: 620px;
+  line-height: 140%;
+  font-weight: 500;
+}
+.account-total,
+.ksh-38400 {
+  position: relative;
+  line-height: 140%;
+}
+.account-total {
+  font-weight: 500;
+}
+.ksh-38400 {
+  font-size: var(--heading-6-size);
+}
+.account-total-parent,
+.frame-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.account-total-parent {
+  width: 420px;
+  flex-direction: row;
+  gap: var(--gap-121xl);
+}
+.frame-group {
+  flex-direction: column;
+  gap: var(--gap-xl);
+}
+.submit {
+  position: absolute;
+  top: 21px;
+  left: 172px;
+  line-height: 140%;
+  font-weight: 800;
+}
+.submit-wrapper {
+  width: 420px;
+  position: relative;
+  border-radius: var(--br-4xs);
+  background-color: var(--primary-600);
+  height: 70px;
+  overflow: hidden;
+  flex-shrink: 0;
+  cursor: pointer;
+  color: var(--gray-0);
+}
+.frame-parent {
+  position: absolute;
+  top: 551px;
+  left: 479px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  font-size: var(--font-size-xl);
+}
+.deposit {
+  width: 100%;
+  position: relative;
+  background-color: var(--gray-0);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--body-s);
+}

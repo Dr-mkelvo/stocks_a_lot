@@ -1,0 +1,30 @@
+.arrow-icon7,
+.arrow-icon8 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.arrow-icon8 {
+  width: 16px;
+  height: 16px;
+  display: none;
+}
+.back13 {
+  position: relative;
+  line-height: 140%;
+  font-weight: 900;
+}
+.stock-increase1 {
+  height: 42px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  text-align: left;
+  font-size: var(--heading-l-size);
+  color: var(--tertiary-stock-green-2);
+  font-family: var(--body-s);
+}

@@ -1,0 +1,26 @@
+.back5 {
+  font-weight: 500;
+}
+.back5,
+.back6 {
+  position: relative;
+  line-height: 140%;
+}
+.back-parent,
+.property-1list-2 {
+  width: 343px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+  font-size: var(--heading-l-size);
+}
+.property-1list-2 {
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  font-size: var(--heading-6-size);
+  color: var(--primary-blue);
+  font-family: var(--body-s);
+}

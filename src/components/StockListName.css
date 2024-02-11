@@ -1,0 +1,40 @@
+.ask-and-bid {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-43xl);
+}
+.stock-list-name-child {
+  width: 47px;
+  position: relative;
+  border-top: 1px solid var(--grey-200);
+  box-sizing: border-box;
+  height: 1px;
+}
+.hi-and-lo1 {
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-43xl);
+}
+.stock-list-name-inner {
+  width: 47px;
+  position: relative;
+  border-top: 1px solid var(--grey-200);
+  box-sizing: border-box;
+  height: 1px;
+  display: none;
+}
+.stock-list-name {
+  border-radius: var(--br-4xs);
+  background-color: var(--gray-0);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-5xl);
+  gap: 29px;
+}
